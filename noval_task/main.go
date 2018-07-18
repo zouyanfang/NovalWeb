@@ -1,7 +1,7 @@
 package main
 
 import (
-	_ "新建文件夹/noval_task/routers"
+	_ "NovalWeb/noval_task/routers"
 	"github.com/astaxie/beego"
 )
 

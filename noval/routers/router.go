@@ -1,7 +1,7 @@
 package routers
 
 import (
-	"新建文件夹/noval/controllers"
+	"NovalWeb/noval/controllers"
 	"github.com/astaxie/beego"
 )
 
